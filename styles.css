@@ -49,8 +49,8 @@
 /* Main Content Layout */
 .main-content {
     display: flex;
-    flex-direction: row; /* Yan yana hizalama */
-    justify-content: space-between; /* İçeriği sağa ve sola yasla */
+    flex-direction: row;
+    justify-content: space-between;
     width: 100%;
     margin-top: 20px;
     gap: 20px;
@@ -85,7 +85,7 @@
 
 /* Center Content Area */
 .center-content {
-    width: 60%; /* Orta içeriği genişlet */
+    width: 60%;
     max-width: 700px;
     padding: 20px;
     background-color: #ffffff;
